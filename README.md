@@ -1,1 +1,1 @@
-# Github blogs
+# Blogging on Github
